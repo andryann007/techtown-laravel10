@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-family: Viga;
+    font-size: 24px;
+    color: white !important;
+    font-weight: 700;
+}
+
+.nav-link {
+    text-transform: capitalize;
+}
